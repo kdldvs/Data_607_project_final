@@ -1,0 +1,21 @@
+# Core ML
+torch --index-url https://download.pytorch.org/whl/cu128
+torchvision --index-url https://download.pytorch.org/whl/cu128
+
+# Data & Math
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+tensorboard
+seaborn
+
+# ML & CV Libraries
+scikit-learn
+scikit-image
+opencv-python
+albumentations
+timm
+
